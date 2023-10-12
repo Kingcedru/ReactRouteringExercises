@@ -1,5 +1,5 @@
 import React from "react"
-import bgImg from "./assets/backi1.png"
+import bgImg from "../assets/backi1.png"
 import { Link } from "react-router-dom"
 
 export default function About() {
